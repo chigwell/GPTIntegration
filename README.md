@@ -23,7 +23,7 @@ You can use `GPTIntegration` as a module in your Python scripts.
 Example:
 
 ```python
-from gpt_integration import GPTIntegration
+from gptintegration import GPTIntegration
 
 # Initialize the integration with your OpenAI API key
 gpt_integration = GPTIntegration('your-openai-api-key')

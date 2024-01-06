@@ -6,7 +6,7 @@ with open('README.md', encoding='utf-8') as f:
 
 setup(
     name='GPTIntegration',
-    version='0.0.1',
+    version='0.0.2',
     description='A module for integrating various GPT models for diverse tasks.',
     long_description=long_description,
     long_description_content_type='text/markdown',
